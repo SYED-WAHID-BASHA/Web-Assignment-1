@@ -26,6 +26,7 @@ height: 100%;
     vertical-align:top;
     padding:24px;
     margin-right:15px;
+    text-align: left;
 }
 .container-right{
     height:inherit;
